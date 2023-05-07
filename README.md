@@ -8,4 +8,4 @@
 - 💬 Ask me about ... anything and everythink, happy to have a chat. 
 - 📫 How to reach me: ... email linkedIn or personal web page.
 - 😄 Pronouns: ... all the way! 
-- ⚡ Fun fact: ... Fig trees eat bugs!!! So don't be "feige" and let us branch off into a grove of glitch-free greenery!.  
+- ⚡ Fun fact: ... Fig trees eat bugs!!! So don't be _feige and let us branch off into a grove of glitch-free greenery!.  
