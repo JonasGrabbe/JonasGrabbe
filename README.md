@@ -18,5 +18,11 @@ Some hallucinative Copilot wanted me to include this, not me at all (will update
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Python Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)](#) 
 [![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ffdd54)](#)
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=JAX&logoColor=ffdd54)](#)  
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=Keras&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=opencv&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=git&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=numpy&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=pandas&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=scipy&logoColor=ffdd54)](#)  
