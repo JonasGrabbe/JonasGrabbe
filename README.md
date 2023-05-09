@@ -1,8 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <!--👋 -->
-
-Some hallucinative Copilot wanted me to include this, not me at all (will update to actual me :smile:) -> I'm Jonas Grabbe a passionate AI researcher and developer. I love to learn and contribute in any and every possible way. I'm currently working on my PhD in AI and Bioinformatics at the University of Copenhagen. I'm also a co-founder of [LangChain](https://langchain.org/), a non-profit organization that aims to create a decentralized language learning platform.
-
+ I'm a passionate AI researcher, mathematician and Data Scientist. I love to learn and contribute in any and every possible way.
+ 
 - 🔭 I’m currently working on ... DNA diffusion, Gene expression and Geometric DL. 
 - 🌱 I’m currently learning ... MOJO🔥, LangChain and primitive colaborative AGI's agents.
 - 👯 I’m looking to collaborate on ... Anything where AI tries to solve promblems in Biology (including Aging, Drug Discovery etc.), Climat Change and Farming.
@@ -17,12 +16,12 @@ Some hallucinative Copilot wanted me to include this, not me at all (will update
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Python Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=Keras&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=opencv&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=git&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=numpy&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=pandas&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Python-417eaf?style=for-the-badge&labelColor=black&logo=scipy&logoColor=ffdd54)](#)  
+[![PyTorch Badge](https://img.shields.io/badge/-Pytorch-417eaf?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-TensrFlow-417eaf?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Keras-417eaf?style=for-the-badge&labelColor=black&logo=Keras&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-openCV-417eaf?style=for-the-badge&labelColor=black&logo=opencv&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-git-417eaf?style=for-the-badge&labelColor=black&logo=git&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Numpy-417eaf?style=for-the-badge&labelColor=black&logo=numpy&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Pandas-417eaf?style=for-the-badge&labelColor=black&logo=pandas&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Scikit-Learn-417eaf?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-SciPy-417eaf?style=for-the-badge&labelColor=black&logo=scipy&logoColor=ffdd54)](#)  
