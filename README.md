@@ -4,7 +4,7 @@
  
 - 🔭 I’m currently working on ... DNA diffusion, Gene expression and Geometric DL. 
 - 🌱 I’m currently learning ... MOJO🔥, LangChain and primitive colaborative AGI's agents.
-- 👯 I’m looking to collaborate on ... Anything where AI tries to solve promblems in Biology(Aging, DDetc.), Climat Change and Farming.
+- 👯 I’m looking to collaborate on ... Anything where AI tries to solve promblems in Biology (Aging, DD...), Climat Change and Farming.
 - 🤔 I’m looking for help with ... LINUX and VIM
 - 💬 Ask me about ... anything and everythink, happy to have a chat. 
 - 📫 How to reach me: ... [![Mail Badge](https://img.shields.io/badge/-grabbe.jonas_-c0392b?style=plastic&labelColor=eddcd2&logo=gmail&logoColor=c0392b)](mailto:grabbe.jonas@gmail.com)  or  [![Linkedin Badge](https://img.shields.io/badge/-Jonas_Grabbe-0e76a8?style=flat&labelColor=eddcd2&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/jonas-grabbe/)
