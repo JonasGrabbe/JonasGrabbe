@@ -23,5 +23,5 @@
 [![PyTorch Badge](https://img.shields.io/badge/-git-417eaf?style=for-the-badge&labelColor=black&logo=git&logoColor=ffdd54)](#) 
 [![PyTorch Badge](https://img.shields.io/badge/-Numpy-417eaf?style=for-the-badge&labelColor=black&logo=numpy&logoColor=ffdd54)](#) 
 [![PyTorch Badge](https://img.shields.io/badge/-Pandas-417eaf?style=for-the-badge&labelColor=black&logo=pandas&logoColor=ffdd54)](#) 
-[![PyTorch Badge](https://img.shields.io/badge/-Scikit-Learn-417eaf?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=ffdd54)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/-Scikit Learn-417eaf?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=ffdd54)](#) 
 [![PyTorch Badge](https://img.shields.io/badge/-SciPy-417eaf?style=for-the-badge&labelColor=black&logo=scipy&logoColor=ffdd54)](#)  
