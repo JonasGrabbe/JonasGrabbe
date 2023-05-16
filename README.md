@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... [![Mail Badge](https://img.shields.io/badge/-grabbe.jonas_-c0392b?style=plastic&labelColor=eddcd2&logo=gmail&logoColor=c0392b)](mailto:grabbe.jonas@gmail.com)  or  [![Linkedin Badge](https://img.shields.io/badge/-Jonas_Grabbe-0e76a8?style=flat&labelColor=eddcd2&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/jonas-grabbe/)
 - 😄 Pronouns: ... all the way! 
 - ⚡ Fun fact: ... Fig trees eat bugs:bangbang: So don't be FEIGE and let's branch off into a grove of glitch-free greenery:heavy_exclamation_mark:  
- 
+      
 
 #### Top Technologies:
 
