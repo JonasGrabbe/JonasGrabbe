@@ -3,7 +3,7 @@
  I'm a passionate AI Researcher, Mathematician and Data Scientist. I love to learn and contribute in any and every possible way.
  
 - 🔭 I’m currently working on ... DNA diffusion, Gene expression and Geometric DL. 
-- 🌱 I’m currently learning ... MOJO🔥, LangChain and primitive colaborative AGI's agents (#LearnToMine).
+- 🌱 I’m currently learning ... MOJO🔥, LangChain and primitive colaborative AGI agents (#LearnToMine).
 - 👯 I’m looking to collaborate on ... Anything where AI intercepts with Biology (Aging, DD...), Climat Change and Farming.
 - 🤔 I’m looking for help with ... LINUX and VIM
 - 💬 Ask me about ... anything and everythink, happy to have a chat. 
