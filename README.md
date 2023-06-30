@@ -11,7 +11,7 @@
 - 😄 Pronouns: ... all the way! 
 - ⚡ Fun fact: ... Fig trees eat bugs:bangbang: So don't be FEIGE and let's branch off into a grove of glitch-free greenery:heavy_exclamation_mark:  
                      
-
+  
 #### Top Technologies:
 
 <!-- TODO: Make technologies links takes you to repositories -->
